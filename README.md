@@ -15,7 +15,8 @@ Python 3.8.3 <br>
 Pytorch 1.7.0
 
 ### Dataset
-The train script downloads the ModelNet40 dataset (make sure it is in data folder)
+The train script downloads the ModelNet40 dataset (make sure it is in data folder) <br>
+https://shapenet.cs.stanford.edu/media/modelnet40_ply_hdf5_2048.zip<br>
 
 ### Run
 ```
