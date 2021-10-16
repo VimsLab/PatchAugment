@@ -1,6 +1,6 @@
 # PatchAugment
 
-Releasing pre-trained models and DGCNN code SOON...
+UPDATE: Pre-trained models of ablation study and DGCNN code will be released SOON...
 
 ## Classification
 This code submission is to reproduce 3D Shape Classification results of PointNet++ with PatchAugment on ModelNet40 dataset.
