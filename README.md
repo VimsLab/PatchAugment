@@ -42,7 +42,7 @@ python test_cls.py --log_dir logSA
 
 ## Note
 Note: This code has been heaviy borrowed from https://github.com/yanx27/Pointnet_Pointnet2_pytorch
-Also, the original code only includes scaling and translation from conventional data augmentation(using the aligned modelnet40 dataset). Hence the reported accuracies are higher. With all DA the accuracy drops(classification without normals on SSG model). However, in our method PatchAugment boosts the overall accuracy using all Data Augmentations at patch level instead of object level.
+Also, the original code only includes scaling and translation from conventional data augmentation(using the aligned modelnet40 dataset). Hence the reported accuracies are higher. With all DA the accuracy drops(classification without normals on SSG model). However, in our method PatchAugment boosts the overall accuracy using all Data Augmentations at patch level instead of object level. Also, we use unaligned modelnet40 dataset.
 
 
 To cite our paper please use below bibtex.
